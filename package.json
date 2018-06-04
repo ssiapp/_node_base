@@ -8,7 +8,7 @@
   },
   "author": "Ray",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "cross-env": "^5.1.6",
     "fs-extra": "^6.0.1",
 
