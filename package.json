@@ -8,17 +8,18 @@
   },
   "author": "Ray",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {    
     "cross-env": "^5.1.6",
+    "react-dev-utils": "^5.0.1",
     "fs-extra": "^6.0.1",
-
+    
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-plugin-import": "^1.7.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
-
+    
     "css-loader": "^0.28.11",
     "file-loader": "^1.1.11",
     "less": "^3.0.4",
@@ -29,6 +30,7 @@
     "url-loader": "^1.0.1",
     
     "webpack": "3.x",
-    "webpack-dev-server": "2.x"
+    "webpack-dev-server": "2.x",
+    "case-sensitive-paths-webpack-plugin": "^2.1.2"
   }
 }
