@@ -30,15 +30,15 @@
     "url-loader": "^1.0.1",
     "postcss-loader": "^2.1.5",
     "postcss-flexbugs-fixes": "3.2.0",
+    "eslint-loader": "1.9.0",
     
-    "eslint": "^4.1.1",
-    "eslint-loader": "^2.0.0",
-    "babel-eslint": "^8.2.2",
-    "eslint-plugin-flowtype": "^2.34.1",
-    "eslint-plugin-import": "^2.6.0",
-    "eslint-plugin-jsx-a11y": "^6.0.2",
-    "eslint-plugin-react": "^7.8.2",
-    
+    "babel-eslint": "7.2.3",
+    "eslint": "4.10.0",
+    "eslint-plugin-flowtype": "2.39.1",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-jsx-a11y": "5.1.1",
+    "eslint-plugin-react": "7.4.0",
+        
     "webpack": "3.x",
     "webpack-dev-server": "2.x",
     "case-sensitive-paths-webpack-plugin": "^2.1.2",
